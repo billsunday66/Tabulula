@@ -1,4 +1,4 @@
-# Salve ad Tabululae! 
+Salve ad Tabululae! 
 
 In this as yet unpublished, pre-alpha version of Tabulula, the only thing you need to download is the .zip file. Unzip it, and open it through Android Studio in order to run it.
 
